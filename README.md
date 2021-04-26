@@ -4,7 +4,6 @@
 
 
 # Challenge_5
-*  Financial analysis tools: financial planner for emergencies and financial planner for retirement.
 
 > "For this assignment, I will create 2 financial analysis tools: financial planner for emergencies with ability to visualize their current savings and financial planner for retirement based on MonteCarlo simulation.
 "
